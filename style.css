@@ -1,0 +1,36 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    width:20%;
+    margin-left: auto;
+
+}
+nav a{
+    color:black;
+    text-decoration: none;
+}
+nav img{height: 20px;}
+main{
+    width: 85em;
+    margin: auto;
+    text-align: center;
+}
+main img{
+    height: 300px;
+}
+input{
+    width: 80%;
+    padding: 1px;
+    border-radius: 1px solid gray;
+
+    
+
+}
+.btns container{
+    margin-top: 1em;
+    
+}
+.btns container button{
+    padding: 1px;
+    border: none;
+}
